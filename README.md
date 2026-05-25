@@ -1,0 +1,1 @@
+Hello, I have made this extension for firefox out of frustration. Searching through lines of code for the main YT video that matters. I know that picture-in-picture exists in firefox, but there is no way to isolate the video on its own.
